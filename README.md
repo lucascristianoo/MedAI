@@ -298,7 +298,4 @@ sistema-medai/
 - **Configure chaves de API adequadamente** - necessário para IA funcionar
 - **Dados da ANVISA podem não contemplar o medicamento procurado** - No momento não são atualizados periodicamente
 
----
-### Projeto Final - FastCamp Agentes Inteligentes
-
-> *Sistema desenvolvido como projeto final do curso de Agentes Inteligentes, demonstrando integração de IA, dados oficiais e interface moderna para área da saúde.*
+> *Sistema desenvolvido como projeto final Fastcamp de Agentes Inteligentes, oferecido pelo Ceia em parceira com o LAMIA.*
