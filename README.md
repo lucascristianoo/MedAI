@@ -287,6 +287,7 @@ sistema-medai/
 ├──  docker-compose.yml                 # Orquestração containers
 ├──  requirements.txt                   # Dependências Python
 ├──  .env.exemplo                       # Exemplo de configuração
+├──  MedAI_Basico.json                  # Fluxo no Langflow que é uma versão bem mais simples do projeto final
 ├──  README.md                          # Documentação (este arquivo)
 └──  imagens                            # Capturas de tela
 ```
