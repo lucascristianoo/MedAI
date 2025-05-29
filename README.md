@@ -54,7 +54,7 @@ O **Sistema MedAI** é capaz realizar uma busca vetorial busca através de simil
 #### 1. Clone o repositório
 ```bash
 git clone https://github.com/lucascristianoo/MedAI.git
-cd sistema-medai
+cd MedAI
 ```
 
 #### 2. Configure as variáveis de ambiente
