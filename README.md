@@ -208,26 +208,26 @@ curl -X POST http://localhost:8000/detalhes_medicamento \
 ##  Capturas de Tela
 
 ###  Tela Principal
-![Tela Principal](docs/screenshots/tela_principal.png)
+![Imagem Principal da interface](imagens/imagem_principal.jpg)
 *Interface principal com busca por sintomas e status do sistema*
 
 ###  Busca por Sintomas
-![Busca Sintomas](docs/screenshots/busca_sintomas.png)
+![Informações adicionais retornadas pela busca](imagens/exemplo_busca_rapida_expandida.jpg)
 *Resultado da busca mostrando medicamentos similares aos sintomas*
 
 ### Análise com IA
-![Análise IA](docs/screenshots/analise_ia.png)
+![Exemplo de análise dos agentes do problema](imagens/exemplo_analise_agentes.jpg)
 *Análise completa dos agentes especializados com recomendações*
 
 ### Detalhes do Medicamento
-![Detalhes Medicamento](docs/screenshots/detalhes_medicamento.png)
+![Exemplo de detalhes sobre determinado medicamento](imagens/funcao_detalhes_medicamento.jpg)
 *Informações detalhadas de medicamento específico*
 
-### API Documentation
-![API Docs](docs/screenshots/api_docs.png)
-*Documentação interativa da API no Swagger UI*
+### Estatísticas da base
+![Estatísticas do top 10 medicamentos](imagens/estatisticas_top_10.jpg)
+*Top 10 medicamentos segundo a base*
 
-##  Configuração de APIs (GRATUITAS)
+##  Configuração de APIs
 
 ###  Google Gemini API (Obrigatória)
 1. Acesse: [Google AI Studio](https://makersuite.google.com/app/apikey)
@@ -291,28 +291,12 @@ sistema-medai/
 └──  imagens                            # Capturas de tela
 ```
 
-## Capturas de tela da interface
-
-![Imagem Principal da interface](imagens/imagem_principal.jpg)
-
-![Dashboard que pode ser usada pelo usuário](imagens/dashbord.jpg)
-
-![Exemplo de uso da busca de medicamentos para o problema](imagens/exemplo_busca_rapida.jpg)
-
-![Informações adicionais retornadas pela busca](imagens/exemplo_busca_rapida_expandida.jpg)
-
-![Exemplo de análise dos agentes do problema](imagens/exemplo_analise_agentes.jpg)
-
-![Exemplo de detalhes sobre determinado medicamento](imagens/funcao_detalhes_medicamento.jpg)
-
-![Estatísticas do top 10 medicamentos](imagens/estatisticas_top_10.jpg)
-
 ## Avisos Importantes
 
 - **Sistema apenas informativo** - não substitui consulta médica
 - **Não pratique automedicação** - sempre consulte profissional
 - **Configure chaves de API adequadamente** - necessário para IA funcionar
-- **Dados baseados na ANVISA** - atualize periodicamente
+- **Dados da ANVISA podem não contemplar o medicamento procurado** - No momento não são atualizados periodicamente
 
 ---
 ### Projeto Final - FastCamp Agentes Inteligentes
