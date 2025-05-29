@@ -261,12 +261,12 @@ graph TB
     D --> H
     
     subgraph " Dados"
-        H[ CSV ANVISA<br/>50k+ medicamentos]
-        J[ Embeddings Semânticos<br/>Sentence Transformers]
+        H[ CSV ANVISA <br/> medicamentos]
+        J[ Embeddings <br/> Sentence Transformers]
     end
     
     subgraph " IA"
-        K[ Google Gemini<br/>Processamento NLP]
+        K[ Google Gemini<br/>Modelo de linguagem usado pelos agentes]
         L[ Busca Vetorial<br/>Similaridade Semântica]
     end
 ```
