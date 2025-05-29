@@ -106,8 +106,8 @@ docker-compose ps
 
 #### 1. Clone e configure
 ```bash
-git clone https://github.com/lucascristianoo/sistema-medai.git
-cd sistema-medai
+git clone https://github.com/lucascristianoo/MedAI.git
+cd MedAI
 cp .env.exemplo .env
 # Configure o .env conforme acima
 ```
