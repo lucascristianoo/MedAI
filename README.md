@@ -4,7 +4,7 @@ Sistema inteligente de recomendação de medicamentos baseado em dados oficiais 
 
 ## Sobre o Projeto
 
-O **Sistema MedAI** : surge no conbtexto de atender uma demanda latente da sociedade brasileira **o problema de automedicação praticado por muitas pessoas sem ao menos uma pesquisa prévia sobre o assunto**. Nesse contexto o objetivo do presente sistema é garantir um acesso direto a informações sobre os medicamentos adequados para o indivíduo com base em um diagnóstico a partir dos sintomas relatados, como também disponibilizar para o individuo uma série de medicamentos que pode usar para lidar com o seu problema, como também encaminhar para ele os devidos links para o atendimento com profissionais da saúde adequados com base em seu problema.  
+O **Sistema MedAI** : surge no contexto de atender uma demanda latente da sociedade brasileira **o problema de automedicação praticado por muitas pessoas sem ao menos uma pesquisa prévia sobre o assunto**. Nesse contexto o objetivo do presente sistema é garantir um acesso direto a informações sobre os medicamentos adequados para o indivíduo com base em um diagnóstico a partir dos sintomas relatados, como também disponibilizar para o individuo uma série de medicamentos que pode usar para lidar com o seu problema, como também encaminhar para ele os devidos links para o atendimento com profissionais da saúde adequados com base em seu problema.  
 
 O **Sistema MedAI** conta com um algoritmo de similaridade semântica para encontrar medicamentos por descrição de sintomas, realiza a análise automática de segurança e recomendações personalizadas com base em registros oficiais da ANVISA, possui uma dashboard intuitivo com visualizações interativas, fornece uma avaliação automática de segurança e necessidade de receita médica, a qual é acompanhada de links diretos para consultas com especialistas adequados para o problema do usuário.
 
@@ -53,7 +53,7 @@ O **Sistema MedAI** conta com um algoritmo de similaridade semântica para encon
 
 #### 1. Clone o repositório
 ```bash
-git clone https://github.com/lucascristianoo/sistema-medai.git
+git clone https://github.com/lucascristianoo/MedAI.git
 cd sistema-medai
 ```
 
