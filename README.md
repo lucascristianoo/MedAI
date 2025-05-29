@@ -37,7 +37,7 @@ O **Sistema MedAI** conta com um algoritmo de similaridade semântica para encon
 ### APIs Externas
 | Serviço | Função |
 |---------|---------|
-| **Google Gemini API** | Modelo de LLM dos agentes |
+| **Google Gemini API** | LLM dos agentes |
 | **Serper API** | Busca web para orientações médicas |
 
 
